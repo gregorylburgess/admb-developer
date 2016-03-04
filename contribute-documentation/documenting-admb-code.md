@@ -172,6 +172,6 @@ Doxygen is feature-rich with many options for changing the content of the API do
 [2]: http://www.admb-project.org/documentation/api/form_14.png
 [3]: http://www.admb-project.org/buildbot/grid
 [4]: http://www.admb-project.org/buildbot/
-[5]: ../beer-points.html "ADMB Beer Points"
+[5]: ../beer-points.md
 [6]: http://admb-project.org/svn/trunk/README.txt
 [7]: http://www.stack.nl/~dimitri/doxygen/config.html
