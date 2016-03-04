@@ -2,11 +2,11 @@
 
 Ongoing effort to make DLL compilation a standard option in ADMB (Aaron, Allan, Arni, Chris, Iago, Laurie, Matthew, Weihai)
 
-[2012-03-26 Email][1]
+[2012-03-26 Email][1]  
 [DLL Success - Arni][2]
 :  Please upload your platform-specific DLL "success stories"
 
-[simpdll][3]
+[simpdll][3]  
 [simpdll.tpl][5]
 :  Example from ADMB user manual
 
