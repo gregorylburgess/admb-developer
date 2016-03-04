@@ -11,7 +11,7 @@ Thank you.
 [Benchmarks][2]
 : Performance of different compilers and optimization software
 
-[ testing_memory_inputs_functions.R][4]
+![File][3] [ testing_memory_inputs_functions.R][4]
 : R code associated with the ADMB memory tests conducted by Ian Taylor and Allan Hicks on memory use, run time, and temporary file sizes. For background, see ...
 
 [Compilers][5]
@@ -19,5 +19,6 @@ Thank you.
 
 [1]: http://www.admb-project.org/contact-info
 [2]: http://www.admb-project.org/developers/benchmarks
-[4]: http://www.admb-project.org/developers/benchmarks/benchmark-tools/testing_memory_inputs_functions.R
+[3]: http://www.admb-project.org/application.png
+[4]: http://www.admb-project.org/developers/benchmarks/benchmark-tools/testing_memory_inputs_functions.R/view
 [5]: http://www.admb-project.org/developers/benchmarks/compilers

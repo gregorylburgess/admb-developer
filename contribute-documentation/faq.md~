@@ -2,7 +2,7 @@
 
 Tools to maintain the FAQ page
 
-[toc4faq.R][2]
+![File][1] [toc4faq.R][2]
 :  An R function for creating an HTML table of contents for the FAQ page
 
 [FAQediting][3]
@@ -10,5 +10,6 @@ Tools to maintain the FAQ page
 
 
 
+[1]: http://www.admb-project.org/application.png
 [2]: faq/toc4faq.R
 [3]: faq/faqediting.html

@@ -1,0 +1,17 @@
+#  pella2
+
+Same model as the above pella, but uses new overloaded init_bounded_number() that now accepts vector argument
+
+![File][1] [pella2.ctl][2]
+![File chemical/x-mopac-input][3] [pella2.dat][4]
+![File][1] [pella2.pin][5]
+![File text/x-perl][1] [pella2.tpl][6]
+
+
+
+[1]: http://www.admb-project.org/application.png
+[2]: pella2/pella2.ctl
+[3]: http://www.admb-project.org/unknown.png
+[4]: pella2/pella2.dat
+[5]: pella2/pella2.pin
+[6]: pella2/pella2.tpl

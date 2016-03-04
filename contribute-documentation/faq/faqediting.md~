@@ -12,7 +12,7 @@ where the name="*" element defines the anchor which is used in the link and ther
 
 If this seems like a pain, just send me your suggested changes at [Ian.Taylor@noaa.gov][4] and I'll do the work for you.
 
-[1]: ../../faq.html
+[1]: ../../faq.html "FAQ"
 [2]: ../../faq.html#positive-definite
 [3]: toc4faq.R
 [4]: mailto:Ian.Taylor@noaa.gov

@@ -22,5 +22,5 @@ Ongoing effort to make DLL compilation a standard option in ADMB (Aaron, Allan, 
 [2]: dll/success-arni.md
 [3]: dll/simpdll.md
 [5]: dll/simpdll.tpl
-[6]: dll/MSvc_dll.R
+[6]: dll/example-compilng-dll-using-ms-visual-c.md
 [7]: dll/dll-compilation-for-vs-with-an-r-access-example.md

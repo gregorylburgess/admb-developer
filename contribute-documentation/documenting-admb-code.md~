@@ -2,10 +2,12 @@
 
 Guidelines for using Doxygen to create documentation for ADMB functions and classes. Also known as the application programming interface (API), or more simply the dox.
 
+ 
 
 Doxygen is system to create documentation for computer code written in C (and other languages). It can generate on-line documentation in HTML and off-line documentation in LaTeX, RTF, and other formats. Doxygen processes special comment blocks and commands within these blocks to create documentation for computer code.
 
  
+
 ## Preliminaries
 
 * Install Doxygen (<http://www.doxygen.org/index.html>) and have a look at the documentation. Source code as well as installation instructions and binaries for Linux, MacOS and Windows are available.

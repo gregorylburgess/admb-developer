@@ -80,6 +80,6 @@ When a new cpp file is added to a directory it must be listed in the "objects.ls
 
 * Naming conventions .....
 
-[1]: http://www.abxsoft.com/ecs/ecs-std.md$
+[1]: http://www.abxsoft.com/ecs/ecs-std.html
 [2]: http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
 [3]: http://www.gnu.org/software/indent/

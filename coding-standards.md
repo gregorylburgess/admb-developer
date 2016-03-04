@@ -15,7 +15,6 @@ The most important principles are the first 2 from Misfeldt et al
 1. Adhere to the style of the original.
 2. Adhere to the Principle of Least Astonishment.
 
-###   
 
 ### **ADMB Coding Standards**
 

@@ -8,10 +8,9 @@ R functions, Dos scripts
 [benchmark.bat][3]
 :  Elaborate Dos script to measure run time (requires R with 'gmt' package)
 
-![File][4] [ testing_memory_inputs_functions.R][5]
+[ testing_memory_inputs_functions.R][5]
 :  R code associated with the ADMB memory tests conducted by Ian Taylor and Allan Hicks on memory use, run time, and temporary file sizes. For background, see "Compilers" page.
 
 [2]: benchmark-tools/bench.bat
-[3]: benchmark-tools/benchmark.bat/view.html
-[4]: http://www.admb-project.org/application.png
-[5]: benchmark-tools/testing_memory_inputs_functions.R/view.html
+[3]: benchmark-tools/benchmark.bat
+[5]: benchmark-tools/testing_memory_inputs_functions.R

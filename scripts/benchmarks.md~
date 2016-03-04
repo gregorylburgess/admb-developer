@@ -14,12 +14,11 @@ Performance of different compilers and optimization software
 [Compilers][5]
 :  GCC vs. Visual C vs. Borland (Windows vs. Linux, 32 bit vs. 64 bit)
 
-Document Actions
 
 
 [1]: benchmarks/benchmark-tools.html
 [2]: benchmarks/optimization.html
 [3]: http://www.admb-project.org/pdf.png
-[4]: benchmarks/ADMBmemoryTest.pdf/view.html
+[4]: benchmarks/ADMBmemoryTest.pdf
 [5]: benchmarks/compilers.html
 .md

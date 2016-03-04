@@ -30,6 +30,6 @@ Uploading a single file to a Plone site can be done using the menus, but for mul
 If there are any problems with the procedure above, please notify usersφadmb-project.org.
 
 [1]: http://www.webdav.org/
-[2]: webdav.png/image_preview.png
-[3]: webdav2.png/image_preview.png
-[4]: webdav3.png/image_preview.png
+[2]: webdav.png/image_preview.png "webdav"
+[3]: webdav2.png/image_preview.png "webdav2"
+[4]: webdav3.png/image_preview.png "webdav3"
