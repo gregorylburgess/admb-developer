@@ -1,9 +1,0 @@
-while read p; do
-	fname="$(dirname $p)"
-	base= "$(dirname $fname)"
-	mkdir $base/datafiles
-	mv $p/* $base/datafiles/
-	rm -r $fname
-	mv $base/datafiles/* $base
-	cd ~/Desktop/admb-developers
-done <folders.txt
