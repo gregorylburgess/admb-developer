@@ -15,4 +15,4 @@ Tools to see which functions need to be documented
 
 [2]: functions/keywords.txt
 [4]: functions/getKeywords.R
-[5]: functions/readme.html
+[5]: functions/README.html
