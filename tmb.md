@@ -10,5 +10,5 @@ Files related to Template Model Builder (TMB)
 
 
 
-[2]: tmb/tmb_cpp.pdf.md
-[3]: tmb/tmb_r.pdf.md
+[2]: tmb/tmb_cpp.pdf
+[3]: tmb/tmb_r.pdf
