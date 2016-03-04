@@ -13,4 +13,4 @@ ADMB, R, BUGS, etc.
 
 [2]: optimization/nceas.pdf
 [4]: optimization/nceas.png
-[5]: optimization/obsolete.html
+[5]: optimization/obsolete.md
