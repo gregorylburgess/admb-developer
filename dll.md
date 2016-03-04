@@ -4,15 +4,12 @@ Ongoing effort to make DLL compilation a standard option in ADMB (Aaron, Allan, 
 
 [2012-03-26 Email][1]  
 [DLL Success - Arni][2]
-:  Please upload your platform-specific DLL "success stories"
-
+:  Please upload your platform-specific DLL "success stories"  
 [simpdll][3]  
 [simpdll.tpl][5]
-:  Example from ADMB user manual
-
+:  Example from ADMB user manual  
 [Example compilng dll using MS Visual C ][6]
-:  Compiling commands for DOS and r-code showing how to compile a dll and run it in R.
-
+:  Compiling commands for DOS and r-code showing how to compile a dll and run it in R.  
 [DLL compilation for VS with an R access example][7]
 :  DLL compilation for the Windows VS compiler is now working. Enter the following command at the command line in the directory in which you save these files: admb - d simple. Open the R gui in the same directory and issue this command: source("simple.r"). Then look at the ouput object: xx
 
