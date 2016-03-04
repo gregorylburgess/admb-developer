@@ -12,6 +12,6 @@ Ongoing development towards MCMC improvements
 :  The goal of this guide is to outline and describe the steps needed to conduct a Bayesian analysis in AD Model Builder. Included are general descriptions of Bayesian inference, priors, work flow and two built-in MCMC algorithms. We hope that the guide will enable users to take full advantage of the features of ADMB that are built in, but not yet well documented.
 
 
-[2]: mcmc/presentation-on-mcmc-options.md
+[2]: mcmc/presentation-on-mcmc-options.pdf
 [3]: mcmc/updating-the-mcmc-documentation.md
-[4]: mcmc/mcmc-guide-for-admb.md
+[4]: mcmc/mcmc-guide-for-admb.pdf
