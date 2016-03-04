@@ -34,6 +34,11 @@ Weihai Liu (USA)
 
  
 
-Contributors (code, documentation, ideas, bug reports):
-
-Aaron Greenberg, Barak Pearlmutter, Ben Stevenson, Gareth Williams, Jan Jaap Poos, Jeff Laake.
+###Contributors:
+(code, documentation, ideas, bug reports)  
+**Aaron Greenberg**  
+**Barak Pearlmutter**  
+**Ben Stevenson**  
+**Gareth Williams**  
+**Jan Jaap Poos**  
+**Jeff Laake**  
