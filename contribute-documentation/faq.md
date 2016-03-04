@@ -11,4 +11,4 @@ Tools to maintain the FAQ page
 
 
 [2]: faq/toc4faq.R
-[3]: faq/faqediting.html
+[3]: faq/faqediting.md
