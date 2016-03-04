@@ -17,6 +17,6 @@ User-contributed packages containing ADMB functions
 
 
 [1]: packages/dnorm.md
-[3]: packages/example.cpp.md
-[5]: packages/instructions.pdf.md
+[3]: packages/example.cpp
+[5]: packages/instructions.pdf
 [6]: https://github.com/admb-project/admb
