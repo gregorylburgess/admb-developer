@@ -1,0 +1,15 @@
+#  TMB
+
+Files related to Template Model Builder (TMB)
+
+![File PDF document][1] [tmb_cpp.pdf][2]
+:  Doxygen reference for the C side of TMB
+
+![File PDF document][1] [tmb_r.pdf][3]
+:  R function reference for TMB
+
+
+
+[1]: http://www.admb-project.org/pdf.png
+[2]: tmb/tmb_cpp.pdf.md
+[3]: tmb/tmb_r.pdf.md
