@@ -28,4 +28,4 @@ bug fixes and document corrections.
 
  
 
-[1]: index.md
+[1]: README.md
